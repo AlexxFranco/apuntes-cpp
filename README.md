@@ -6,6 +6,7 @@ Aquí se alojaran los ejercicios que se realicen en C++ durante la clase.
 Se iran sincronizando los archivos y cambios que se realicen en clase.
 
 * [Hola Mundo](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/helloWorld.cpp)
+* [Año Bisiesto](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/anioBisiesto.cpp)
 
 ## Author
 
