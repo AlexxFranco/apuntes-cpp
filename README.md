@@ -1,6 +1,6 @@
 ﻿# Lódica de Programación - Ejercicios C++
 
-Aquí se alojaran los ejercicios que se realicen en clase de c++.
+Aquí se alojaran los ejercicios que se realicen en clase de C++.
 
 Se iran sincronizando los archivos y cambios que se realicen en clase
 
