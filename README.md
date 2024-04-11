@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm César Carmona <img src="https://tenor.com/byuK9.gif" width="100"></h1>
+<h1 align="center">Hi, I'm César Carmona <img src="https://media.tenor.com/8CRuK01WKcMAAAAi/pokemon-pikachu.gif" width="100"></h1>
 
 
 Aquí se alojaran los ejercicios que se realicen en clase de C++.
