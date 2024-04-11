@@ -1,4 +1,4 @@
-<h1 align="center">Lódica de Programación - Ejercicios C++<img src="https://tenor.com/es-419/view/pokemon-gif-24403522" width="100"></h1>
+<h1 align="center">Lódica de Programación - Ejercicios C++<img src="https://tenor.com/es-419/view/pokemon-pikachu-pokemon-ball-wave-happy-gif-20575381" width="100"></h1>
 
 Aquí se alojaran los ejercicios que se realicen en clase de C++.
 
