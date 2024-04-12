@@ -1,4 +1,4 @@
-# Ejercicio: Calcular Salario
+# Ejercicio: Calcular salario
 Codificar un programa que permita calcular el sueldo neto semanal de un trabajador según los siguientes criterios: 
 * El sueldo bruto se calculará según las horas semanales trabajadas. 
 * Las primeras 40 horas semanales se pagarán a la tarifa normal ($350.00). 
