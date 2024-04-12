@@ -8,4 +8,4 @@ Codificar un programa que permita calcular el sueldo neto semanal de un trabajad
 * El tramo del sueldo bruto entre $10,000.00 y $15,000.00 llevará una retención del 12%. 
 * Todo el tramo de sueldo que sobrepase los $15,000.00 llevará un 18% de retención.
 
-[Código del ejercicio](salario.cpp)
+### [Código del ejercicio](salario.cpp)
