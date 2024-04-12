@@ -30,7 +30,7 @@ Sin entrar en detalles sobre utilizar estas plataformas de Git y GitHub, espero 
 
 Sin más que decir, les agradezco mucho que se puedan tomar la libertad y tiempo para visualizar este proyecto, pues quiero contribuir para ayudarlos además que es algo que disfruto hacer. 
 Sin más que decir...
-¡Happy Coding! <img src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width="40"></h1>
+<br>¡Happy Coding! <img src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width="40"></h1>
 
 #### License
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
