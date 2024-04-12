@@ -1,3 +1,4 @@
+# Ejercicio: Calcular Salario
 Codificar un programa que permita calcular el sueldo neto semanal de 
 un trabajador según los siguientes criterios: 
 • El sueldo bruto se calcularásegún las horas semanales trabajadas. Las 

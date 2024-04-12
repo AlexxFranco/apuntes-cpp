@@ -6,7 +6,7 @@ int main() {
   // Variables para almacenar las horas trabajadas totales y para las horas extras
   int horas_trabajadas, horas_extras;
   // Las tarifas como no varian son constantes
-  const float tarifa_normal = 350.00f, tarifa_extra = 1.5 * tarifa_normal;
+  const float TARIFA_NORMAL = 350.00f, TARIFA_EXTRA = 1.5 * TARIFA_NORMAL;
   // Variables de punto decimal para almacenar los sueldos
   double sueldo_bruto, sueldo_neto;
   
@@ -17,7 +17,7 @@ int main() {
   if (horas_trabajadas <= 40) {
     /* Si las hrs trabajadas son menores o iguales a 40, entonces 
       calculamos el sueldo bruto con la tarifa normal de 350.00*/
-    sueldo_bruto = horas_trabajadas * tarifa_normal;
+    sueldo_bruto = horas_trabajadas * TARIFA_NORMAL;
   } else {
     /* Si las hrs superan las 40 hrs, restamos 40 hrs a la cantidad
       de hrs trabajadas para obtener las horas extra */
@@ -25,7 +25,7 @@ int main() {
     /* Calculamos el sueldo bruto, primero la tarifa normal para la cantidad
       maxima de hrs que son 40, y luego con tarifa extra para las 
       horas extra, al final sumamos el sueldo de ambas tarifas*/
-    sueldo_bruto = (40 * tarifa_normal) + (horas_extras * tarifa_extra);
+    sueldo_bruto = (40 * TARIFA_NORMAL) + (horas_extras * TARIFA_EXTRA);
   }
   if (sueldo_bruto <= 10000.00f) {
     /* Si el sueldo bruto es menor o igual a 10000.00 entonces no habrá
