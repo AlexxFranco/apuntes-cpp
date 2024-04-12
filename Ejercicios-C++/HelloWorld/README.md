@@ -29,7 +29,8 @@ Trabajaré en los demás programas de manera similar para que puedan tener refer
 Sin entrar en detalles sobre utilizar estas plataformas de Git y GitHub, espero puedan tener una mejor comprensión sobre los ejercicios y resolver las posibles dudas que tengan.
 
 Sin más que decir, les agradezco mucho que se puedan tomar la libertad y tiempo para visualizar este proyecto, pues quiero contribuir para ayudarlos además que es algo que disfruto hacer. 
-Sin más que decir ¡Happy Coding! <img src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width="40"></h1>
+Sin más que decir...
+¡Happy Coding! <img src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width="40"></h1>
 
 #### License
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
