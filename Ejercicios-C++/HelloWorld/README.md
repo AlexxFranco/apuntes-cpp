@@ -11,7 +11,7 @@ El repositorio contiene los siguientes archivos:
 Para ejecutar el programa, sigue estos pasos:
 
 1. Copia el código (opcional si ya lo tienes listo).
-2. Compila el programa utilizando un compilador de C++, por ejemplo, g++:
+2. Compila el programa utilizando un compilador de C++, por ejemplo, `g++`:
 3. Ejecuta el comando: `g++ helloWorld.cpp -o nombreEjecutable.exe`
 4. Ejecuta el programa generado: `.\nombreEjecutable.exe`
 5. La frase _Hello World_ debería ser impresa por consola o terminal: 
