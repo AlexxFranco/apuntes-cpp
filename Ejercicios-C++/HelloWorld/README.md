@@ -4,7 +4,7 @@ Este es un programa simple en C++ que imprime "Hello World" en la consola. Es el
 El repositorio fue pensado para aquellos que utilicen Visual Studio Code como entorno de desarrollo, aunque DevC++ es un poco más sencillo.
 El repositorio contiene los siguientes archivos:
 
-- [helloWorld.cpp](.\helloWorld.cpp).- El código fuente del programa en C++, ya documentado y listo para su compilación y ejecución.
+- [helloWorld.cpp](helloWorld.cpp).- El código fuente del programa en C++, ya documentado y listo para su compilación y ejecución.
 - README.md.- El documento actual para visualizar información detallada sobre este archivo.
 
 ### Uso
