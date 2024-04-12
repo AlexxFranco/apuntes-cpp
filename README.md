@@ -14,6 +14,8 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 - Explora los diferentes ejercicios disponibles en el repositorio.
 - Descarga los archivos que necesites para practicar.
 - Realiza los ejercicios por tu cuenta y compara tus soluciones con las proporcionadas aquí.
+> [!IMPORTANT]
+> consejo
 
 El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
 > ### [Menú](Ejercicios-C++) 
