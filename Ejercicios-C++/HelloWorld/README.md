@@ -7,7 +7,7 @@ El repositorio contiene los siguientes archivos:
 - [helloWorld.cpp](.\helloWorld.cpp).- El código fuente del programa en C++, ya documentado y listo para su compilación y ejecución.
 - README.md.- El documento actual para visualizar información detallada sobre este archivo.
 
-#### Uso
+### Uso
 Para ejecutar el programa, sigue estos pasos:
 
 1. Copia el código (opcional si ya lo tienes listo).
@@ -20,7 +20,7 @@ Hello World
 ```
 
 
-#### Contribuciones
+### Contribuciones
 ¡Las contribuciones son bienvenidas! 
 Si tienen ideas para mejorar este programa, su documentación, o los archivos en general, no duden en querer contribuir, todas las ideas son bien recibidas,
 
@@ -32,5 +32,5 @@ Sin más que decir, les agradezco mucho que se puedan tomar la libertad y tiempo
 Sin más que decir...
 <br>¡Happy Coding! <img src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width="40"></h1>
 
-#### License
+### License
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
