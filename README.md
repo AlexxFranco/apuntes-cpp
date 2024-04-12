@@ -17,7 +17,7 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 > en el navegador, por lo que de preferencia cuando se metan a una carpeta donde encuentren tanto el archivo del código como el README.md, abran este último pues contiene información un poco más detallada.
 
 > [!NOTE]
-> El _README.md_ es un archivo de texto que se carga y se visualiza por defecto y es de utilidad para comprender y detallar mejor el proyecto en el que se trabaje
+> El _README.md_ es un archivo de texto que se carga y se visualiza por defecto y es de utilidad para comprender y detallar mejor el proyecto en el que se trabaje. De hecho esto que estan visualizando es un archivo _README_
 
 El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
 > ### [Menú](Ejercicios-C++) 
