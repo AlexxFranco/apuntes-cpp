@@ -10,9 +10,27 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 
 - Recomendaciones de contenido, documentaciones oficiales, herramientas útiles, entre otras.
 
+### ¿Cómo usar este repositorio?
+- Explora los diferentes ejercicios disponibles en el repositorio.
+- Descarga los archivos que necesites para practicar.
+- Realiza los ejercicios por tu cuenta y compara tus soluciones con las proporcionadas aquí.
+
 El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
 #### [Menú](Ejercicios-C++\README.md)
 
+### Contribuciones
+¡Las contribuciones son bienvenidas! 
+Si tienen ideas para mejorar los programas, la documentación, o los archivos en general, no duden en querer contribuir, todas las ideas son bien recibidas.
+
+Trabajaré en los programas de manera similar para que puedan tener referencias.
+
+Sin entrar en detalles sobre utilizar estas plataformas de Git y GitHub, espero puedan tener una mejor comprensión sobre los ejercicios y resolver las posibles dudas que tengan.
+
+Sin más que decir, les agradezco mucho que se puedan tomar la libertad y el tiempo para visualizar este proyecto, pues quiero ayudar a contribuir en su aprendizaje, por lo que espero que este repositorio sea de gran utilidad para ustedes, además de que disfruto mucho al hacerlo. 
+Sin más que decir...¡Happy Coding!<br><img src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width="50" ></h1>
+
+### License
+Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
 ### Author
 
 - [@CesarCarmona30](https://www.github.com/CesarCarmona30)

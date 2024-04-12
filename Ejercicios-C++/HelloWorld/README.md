@@ -24,13 +24,5 @@ Hello World
 ¡Las contribuciones son bienvenidas! 
 Si tienen ideas para mejorar este programa, su documentación, o los archivos en general, no duden en querer contribuir, todas las ideas son bien recibidas,
 
-Trabajaré en los demás programas de manera similar para que puedan tener referencias.
-
-Sin entrar en detalles sobre utilizar estas plataformas de Git y GitHub, espero puedan tener una mejor comprensión sobre los ejercicios y resolver las posibles dudas que tengan.
-
-Sin más que decir, les agradezco mucho que se puedan tomar la libertad y tiempo para visualizar este proyecto, pues quiero contribuir para ayudarlos además que es algo que disfruto hacer. 
-Sin más que decir...
-<br>¡Happy Coding! <img src="https://media.tenor.com/u56nhKZD24AAAAAj/catkiss-cat.gif" width="40"></h1>
-
 ### License
 Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
