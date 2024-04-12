@@ -13,7 +13,7 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 - Descarga los archivos que necesites para practicar.
 - Realiza los ejercicios por tu cuenta y compara tus soluciones con las proporcionadas aquí.
 > [!IMPORTANT]
-> Pueden descargar la aplicación de GitHub para móvil, en este caso cuando abren ciertas carpetas del repositorio, documentos _README.md_ no se previsualizan por defecto como si los estuvieran viendo
+> Pueden descargar la aplicación de GitHub para móvil, en este caso cuando abren ciertas carpetas del repositorio, los documentos *_README.md_* no se previsualizan por defecto como si los estuvieran viendo
 > en el navegador, por lo que de preferencia cuando se metan a una carpeta donde encuentren tanto el archivo del código como el README.md, abran este último pues contiene información un poco más detallada.
 
 > [!NOTE]
