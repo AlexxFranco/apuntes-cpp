@@ -5,9 +5,9 @@ Aquí se alojaran los ejercicios que se realicen en C++ durante la clase.
 
 Se iran sincronizando los archivos y cambios que se realicen en clase.
 
-* [Hola Mundo](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/helloWorld.cpp)
-* [Año Bisiesto](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/anioBisiesto.cpp)
-* [Números pares entre dos números](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/numerosPares.cpp)
+* [Hola Mundo](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/helloWorld.cpp)
+* [Año Bisiesto](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/anioBisiesto.cpp)
+* [Números pares entre dos números](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/numerosPares.cpp)
 
 ## Author
 
