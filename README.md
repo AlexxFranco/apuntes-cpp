@@ -8,6 +8,7 @@ Se iran sincronizando los archivos y cambios que se realicen en clase.
 * [Hola Mundo](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/helloWorld.cpp)
 * [Año Bisiesto](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/anioBisiesto.cpp)
 * [Números pares entre dos números](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/numerosPares.cpp)
+* [Número Perfecto]()
 
 ## Author
 
