@@ -29,7 +29,7 @@ Ejemplo de uso:
    * más estetico */   
 ```
 
-### 2. Declaración de Variables y tipos de datos.
+### 2. Declaración de variables y tipos de datos.
 Las variables son elementos fundamentales en cualquier lenguaje de programación, pues nos permiten almacenar valores. En C++, se pueden declarar variables de diferentes tipos, los más comunes y utilizados son:
 - Numeros:
   + enteros = **_int_**
