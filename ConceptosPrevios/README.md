@@ -65,3 +65,24 @@ Con los ejemplos anteriores debemos abarcar los siguientes puntos:
 + Las variables se pueden inicializar en su declaración o después de su declaración, si se asigna un valor despues de la declaración solo es necesario hacer referencia a la variable mediante su nombre o identificador.
 
 ### 3. Bibliotecas (*Libraries*)
+Las bibliotecas son componentes esenciales en la programación. Estos archivos contienen conjuntos de funciones y definiciones que pueden ser utilizados en nuestros programas para realizar tareas específicas. Algunas de las bibliotecas más comunes en C++ son:
+
+- **stdio.h**: Proporciona funciones para entrada y salida de datos estándar, algunas funciones comunes son **printf**(para imprimir o mostrar información por consola), **scanf**(para leer datos por teclado)
+- **iostream**: Proporciona las funciones básicas de entrada y salida, como **cin**(similar a print) y **cout**(similar a scanf), es más recomendable que stdio.h.
+- **vector**: Implementa vectores dinámicos que pueden crecer o disminuir de tamaño según sea necesario.
+- **string**: Proporciona funciones y clases para trabajar con cadenas de texto.
+- **algorithm**: Ofrece algoritmos para realizar operaciones en contenedores, como ordenar, buscar, entre otras.
+
+Para hacer el llamado a una biblioteca debemos hacer lo siguiente 
+  `#include <nombre_de_la_biblioteca>`
+
+Ejemplo de uso:
+```C++
+#include <stdio.h>
+
+printf("Esto es una cadena de texto");
+```
+En el ejemplo anterior de no haber incluido la biblioteca _**stdio.h**_, no habría podido hacer uso de la funcion printf que me permite mostrar mensajes por terminal.
+
+Esto nos enseña que las bibliotecas nos permiten organizar y reutilizar código de manera efectiva.
+Al incluir bibliotecas en nuestros programas, podemos aprovechar funcionalidades predefinidas y mejorar la eficiencia y legibilidad de nuestro código.
