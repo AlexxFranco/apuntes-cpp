@@ -19,8 +19,7 @@ Algo como:
 `tipo_de_dato nombre_de_la_variable = valor; // valor puede ser opcional`
 
 Ejemplo de uso:
-```bash
-  C++
+```C++
   int numero; // Declaración de variable
   int edad = 19; // Declaración de variable inicializandola
 ```
