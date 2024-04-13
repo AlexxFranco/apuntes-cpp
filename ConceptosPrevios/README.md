@@ -2,6 +2,27 @@
 
 En esta sección, cubriremos los conceptos básicos que son esenciales para comprender los ejercicios de lógica de programación en este repositorio. Si eres nuevo en la programación o necesitas repasar algunos fundamentos, esto es ideal para ti.
 
+### Comentarios de código
+Para mejorar la legibilidad y comprensión del código, es fundamental integrar comentarios adecuados en nuestro programa. Estos comentarios no solo nos benefician a nosotros, sino que también facilitan la comprensión para otros colaboradores.
+En C++, existen dos formas comunes de realizar comentarios: de una sola línea y de múltiples líneas. Este proceso, conocido como documentación de código, es una práctica estándar de desarrollo.
+Para comentar una sola línea, se emplea doble diagonal **//**, seguida del texto que deseamos comentar. 
+Por otro lado, para comentarios en varias líneas, se utilizan los caracteres **/\*\*/**, dentro de los cuales todo lo que se incluya será considerado como comentario. Esta forma es útil para comentarios extensos que abarcan varias líneas de código.
+Es importante destacar que los comentarios son ignorados por el compilador, lo que significa que cualquier contenido escrito dentro de ellos no afectará la ejecución del programa. Esta característica ofrece la libertad de proporcionar explicaciones detalladas o notas sin riesgo de afectar el funcionamiento del código.
+
+Ejemplo de uso:
+```C++
+  // Esto es un comentario de línea
+  /* Esto también es un comentario de línea */
+  /* Esto es un 
+     comentario multilínea */
+  /* Esto 
+   * también 
+   * es un 
+   * comentario 
+   * multilínea 
+   * más estetico */   
+```
+
 ### Declaración de Variables
 Las variables son elementos fundamentales en cualquier lenguaje de programación, pues nos permiten almacenar valores. En C++, se pueden declarar variables de diferentes tipos, estos son:
 - Numeros:
@@ -23,47 +44,3 @@ Ejemplo de uso:
   int numero; // Declaración de variable
   int edad = 19; // Declaración de variable inicializandola
 ```
-
-
-Tipos de Datos
-Es importante comprender los diferentes tipos de datos en C++ y cómo se utilizan. Algunos de los tipos de datos más comunes incluyen:
-
-Enteros: Representan números enteros, como 1, 2, -5, etc.
-Flotantes: Representan números decimales, como 3.14, 0.5, -2.75, etc.
-Caracteres: Representan caracteres individuales, como 'a', 'B', '$', etc.
-Estructuras de Control
-Las estructuras de control te permiten controlar el flujo de ejecución de un programa. Algunas de las estructuras de control más comunes son:
-
-Condicionales: Permiten ejecutar cierto bloque de código si se cumple una condición. Por ejemplo:
-cpp
-Copy code
-if (condicion) {
-    // código a ejecutar si la condición es verdadera
-} else {
-    // código a ejecutar si la condición es falsa
-}
-Bucles: Permiten ejecutar un bloque de código repetidamente. Por ejemplo:
-cpp
-Copy code
-for (int i = 0; i < 5; i++) {
-    // código a ejecutar en cada iteración
-}
-Funciones
-Las funciones son bloques de código que realizan una tarea específica y pueden ser reutilizadas en diferentes partes del programa. Aquí hay un ejemplo de cómo se declara una función en C++:
-
-cpp
-Copy code
-int suma(int a, int b) {
-    return a + b;
-}
-En este ejemplo, hemos declarado una función llamada suma que toma dos parámetros de tipo entero y devuelve su suma.
-
-¡Estos son solo algunos de los conceptos básicos que necesitas conocer para empezar a programar en C++! Si tienes alguna pregunta o necesitas más información sobre alguno de estos temas, no dudes en preguntar en el apartado de discusiones del repositorio.
-
-Puedes adaptar este texto según las necesidades y nivel de conocimiento de tus compañeros de clase. ¡Espero que sea útil!
-
-
-
-
-
-
