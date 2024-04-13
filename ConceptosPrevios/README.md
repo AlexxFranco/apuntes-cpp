@@ -2,7 +2,7 @@
 
 En esta sección, cubriremos los conceptos básicos que son esenciales para comprender los ejercicios de lógica de programación en este repositorio. Si eres nuevo en la programación o necesitas repasar algunos fundamentos, esto es ideal para ti.
 
-### Comentarios de código
+### 1. Comentarios de código
 Para mejorar la legibilidad y comprensión del código, es fundamental integrar comentarios adecuados en nuestro programa. Estos comentarios no solo nos benefician a nosotros, sino que también facilitan la comprensión para otros colaboradores.
 
 En C++, existen dos formas comunes de realizar comentarios: de una sola línea y de múltiples líneas. Este proceso, conocido como documentación de código, es una práctica estándar de desarrollo.
@@ -29,7 +29,7 @@ Ejemplo de uso:
    * más estetico */   
 ```
 
-### Declaración de Variables
+### 2. Declaración de Variables
 Las variables son elementos fundamentales en cualquier lenguaje de programación, pues nos permiten almacenar valores. En C++, se pueden declarar variables de diferentes tipos, los más comunes y utilizados son:
 - Numeros:
   + enteros = **_int_**
@@ -57,9 +57,11 @@ Ejemplo de uso:
 ```
 
 Con los ejemplos anteriores debemos abarcar los siguientes puntos:
-+ Un tipo int solo recibe datos enteros, de otra manera se genera un error.
++ Un tipo de dato solo puede recibir el tipo de dato que especifica, por ejemplo int solo recibe datos enteros, de otra manera se genera un error.
 + La diferencia entre float y double solo radica en que double soporta valores mucho más altos para números decimales, float para 32 bits y double para 64 bits.
 + Si se quiere especificar directamente que un valor sea float se puede agregar **f** al final del valor.
 + Los valores para los tipos string se escriben entre doble comillas: "valor".
 + El valor para un caracter se escribe entre comillas simples: 'A'.
 + Las variables se pueden inicializar en su declaración o después de su declaración, si se asigna un valor despues de la declaración solo es necesario hacer referencia a la variable mediante su nombre o identificador.
+
+### 3. Bibliotecas (*Libraries*)
