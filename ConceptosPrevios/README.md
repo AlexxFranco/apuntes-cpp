@@ -2,7 +2,7 @@
 
 En esta sección, cubriremos los conceptos básicos que son esenciales para comprender los ejercicios de lógica de programación en este repositorio. Si eres nuevo en la programación o necesitas repasar algunos fundamentos, esto es ideal para ti.
 
-### 1. Comentarios de código
+### 1. Comentarios de código.
 Para mejorar la legibilidad y comprensión del código, es fundamental integrar comentarios adecuados en nuestro programa. Estos comentarios no solo nos benefician a nosotros, sino que también facilitan la comprensión para otros colaboradores.
 
 En C++, existen dos formas comunes de realizar comentarios: de una sola línea y de múltiples líneas. Este proceso, conocido como documentación de código, es una práctica estándar de desarrollo.
@@ -29,7 +29,7 @@ Ejemplo de uso:
    * más estetico */   
 ```
 
-### 2. Declaración de Variables
+### 2. Declaración de Variables y tipos de datos.
 Las variables son elementos fundamentales en cualquier lenguaje de programación, pues nos permiten almacenar valores. En C++, se pueden declarar variables de diferentes tipos, los más comunes y utilizados son:
 - Numeros:
   + enteros = **_int_**
@@ -64,7 +64,7 @@ Con los ejemplos anteriores debemos abarcar los siguientes puntos:
 + El valor para un caracter se escribe entre comillas simples: 'A'.
 + Las variables se pueden inicializar en su declaración o después de su declaración, si se asigna un valor despues de la declaración solo es necesario hacer referencia a la variable mediante su nombre o identificador.
 
-### 3. Bibliotecas (*Libraries*)
+### 3. Bibliotecas (*Libraries*).
 Las bibliotecas son componentes esenciales en la programación. Estos archivos contienen conjuntos de funciones y definiciones que pueden ser utilizados en nuestros programas para realizar tareas específicas. Algunas de las bibliotecas más comunes en C++ son:
 
 - **stdio.h**: Proporciona funciones para entrada y salida de datos estándar, algunas funciones comunes son **printf**(para imprimir o mostrar información por consola), **scanf**(para leer datos por teclado).
@@ -86,3 +86,22 @@ En el ejemplo anterior de no haber incluido la biblioteca _**stdio.h**_, no habr
 
 Esto nos enseña que las bibliotecas nos permiten organizar y reutilizar código de manera efectiva.
 Al incluir bibliotecas en nuestros programas, podemos aprovechar funcionalidades predefinidas y mejorar la eficiencia y legibilidad de nuestro código.
+
+### 4. Declaración del main.
+La función main es el punto de entrada de un programa en C++. Todo programa en C++ debe tener exactamente una función main. La declaración del main sigue la siguiente sintaxis general:
+
+```C++
+int main() {
+    // Cuerpo del programa
+    return 0;
+}
+```
++ **int**: Como ya lo habíamos mencionado en la parte de tipos de datos, este indica el tipo de dato que la función main devuelve al finalizar su ejecución. Normalmente, se utiliza int para indicar el estado de salida del programa. Un valor de retorno de 0 generalmente indica que el programa se ejecutó correctamente, mientras que un valor distinto de 0 puede indicar algún tipo de error. Esto de devolver valores se analizará más a fondo en el tema de **_funciones_**
+
+- **main( )**: Es el nombre de la función principal. Puede recibir argumentos de línea de comandos, los cuales se declaran dentro de los corchetes, algo que nuevamente es tema de funciones y se vera más adelante, por el momento quedemos en que puede ser vacío sin problemas.
+
+- **{ }**: Delimitan el cuerpo de la función main. Dentro de estas llaves se colocan las instrucciones que se ejecutarán cuando el programa se ejecute.
+
+- **return 0**: Indica que el programa ha finalizado correctamente. Devolver un valor diferente de 0 en main generalmente indica que el programa ha terminado con algún tipo de error.
+
+Es importante recordar que la función main debe devolver un valor de tipo int, ya sea explícitamente con **_return_**, o implícitamente al llegar al final de la función. La omisión del return en la función main se considera equivalente a return 0;.
