@@ -30,13 +30,13 @@ Ejemplo de uso:
 ```
 
 ### Declaración de Variables
-Las variables son elementos fundamentales en cualquier lenguaje de programación, pues nos permiten almacenar valores. En C++, se pueden declarar variables de diferentes tipos, estos son:
+Las variables son elementos fundamentales en cualquier lenguaje de programación, pues nos permiten almacenar valores. En C++, se pueden declarar variables de diferentes tipos, los más comunes y utilizados son:
 - Numeros:
   + enteros = **_int_**
   + decimales = **_float_** o **_double_**
-- Texto:
+- Textos:
   + caracteres = **_char_**
-  + cadenas de texto = **_string_**
+  + cadenas de texto = **_string_** (con ayuda de otra herramienta)
 - Lógicos
   + booleanos = **_bool_**
 
@@ -47,6 +47,19 @@ Algo como:
 
 Ejemplo de uso:
 ```C++
-  int numero; // Declaración de variable
-  int edad = 19; // Declaración de variable inicializandola
+  int numero; // Declaración de variable llamada numero
+  int edad = 19; // Declaración de variable llamada edad inicializandola en 19
+  float estatura = 1.75f;
+  double peso = 74.823;
+  string nombre = "Cesar";
+  char genero = 'M';
+  numero = 123;
 ```
+
+Con los ejemplos anteriores debemos abarcar los siguientes puntos:
++ Un tipo int solo recibe datos enteros, de otra manera se genera un error.
++ La diferencia entre float y double solo radica en que double soporta valores mucho más altos para números decimales, float para 32 bits y double para 64 bits.
++ Si se quiere especificar directamente que un valor sea float se puede agregar **f** al final del valor.
++ Los valores para los tipos string se escriben entre doble comillas: "valor".
++ El valor para un caracter se escribe entre comillas simples: 'A'.
++ Las variables se pueden inicializar en su declaración o después de su declaración, si se asigna un valor despues de la declaración solo es necesario hacer referencia a la variable mediante su nombre o identificador.
