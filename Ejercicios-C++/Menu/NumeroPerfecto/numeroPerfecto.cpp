@@ -14,10 +14,7 @@ int main() {
     // Limpieza del búfer
     cin.ignore();
   }
-  /* Bucle para iterar los numeros desde el 1 hasta
-    la mitad del número del usuario para hallar los
-    posibles divisores
-  */
+  // Iteramos desde 1 hasta la mitad del número para hallar los divisores
   for (int divisor = 1; divisor <= numero / 2; divisor++) {
     /* Si el residuo entre el número del usuario y el divisor actual
     es 0, entonces vamos sumando */
@@ -29,10 +26,10 @@ int main() {
   /* Comparación del valor de la suma y del número del usuario */
   if (suma == numero) {
     // Se muestra si es perfecto
-    cout << numero << " es perfecto";
+    cout << numero << " es un numero perfecto";
   } else {
     // Se muestra si no es perfecto
-    cout << numero << " no es perfecto";
+    cout << numero << " no es numero perfecto";
   }
   return 0;
 }
