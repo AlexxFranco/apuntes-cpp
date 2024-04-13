@@ -104,4 +104,4 @@ int main() {
 
 - **return 0**: Indica que el programa ha finalizado correctamente. Devolver un valor diferente de 0 en main generalmente indica que el programa ha terminado con algún tipo de error.
 
-Es importante recordar que la función main debe devolver un valor de tipo int, ya sea explícitamente con **_return_**, o implícitamente al llegar al final de la función. La omisión del return en la función main se considera equivalente a return 0;.
+Es importante recordar que la función main debe devolver un valor de tipo int, ya sea explícitamente con **_return_**, o implícitamente al llegar al final de la función. La omisión del return en la función main se considera equivalente a return 0. Además hay que aclarar que el valor 0 se considera un entero que coincide con el tipo int de retorno declarado antes de nombrar al programa main.
