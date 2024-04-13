@@ -13,10 +13,14 @@ Las variables son elementos fundamentales en cualquier lenguaje de programación
 - Lógicos
   + booleanos = **_bool_**
 
-Para declarar una variable se debe indicar el tipo de variable, el nombre de la variable (identificador) y darle un valor opcional (inicialización), algo como: 
+Para declarar una variable se debe indicar el tipo de variable, el nombre de la variable (identificador) y darle un valor opcional (inicialización).
+Algo como: 
+
 `tipo_de_dato nombre_de_la_variable = valor; // valor puede ser opcional`
+
 Ejemplo de uso:
 ```bash
+  C++
   int numero; // Declaración de variable
   int edad = 19; // Declaración de variable inicializandola
 ```
