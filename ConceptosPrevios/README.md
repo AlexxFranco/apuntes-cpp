@@ -4,9 +4,12 @@ En esta sección, cubriremos los conceptos básicos que son esenciales para comp
 
 ### Comentarios de código
 Para mejorar la legibilidad y comprensión del código, es fundamental integrar comentarios adecuados en nuestro programa. Estos comentarios no solo nos benefician a nosotros, sino que también facilitan la comprensión para otros colaboradores.
+
 En C++, existen dos formas comunes de realizar comentarios: de una sola línea y de múltiples líneas. Este proceso, conocido como documentación de código, es una práctica estándar de desarrollo.
 Para comentar una sola línea, se emplea doble diagonal **//**, seguida del texto que deseamos comentar. 
+
 Por otro lado, para comentarios en varias líneas, se utilizan los caracteres **/\*\*/**, dentro de los cuales todo lo que se incluya será considerado como comentario. Esta forma es útil para comentarios extensos que abarcan varias líneas de código.
+
 Es importante destacar que los comentarios son ignorados por el compilador, lo que significa que cualquier contenido escrito dentro de ellos no afectará la ejecución del programa. Esta característica ofrece la libertad de proporcionar explicaciones detalladas o notas sin riesgo de afectar el funcionamiento del código.
 
 Ejemplo de uso:
