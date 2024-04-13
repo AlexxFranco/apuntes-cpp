@@ -19,12 +19,12 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 > [!NOTE]
 > El _README.md_ es un archivo de texto que se carga y se visualiza por defecto y es de utilidad para comprender y detallar mejor el proyecto en el que se trabaje. De hecho esto que estan visualizando es un archivo _README_
 
-> El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
-> #### [Menú de Ejercicios](Ejercicios-C++)
-> El siguiente enlace los llevara a contenido útil y básico
-> #### [Conceptos previos/Ayuda](ConceptosPrevios)
-> El siguiente enlace los llevara a la documentación oficial por parte de Microsoft
-> #### [Documentación Oficial del lenguaje](https://learn.microsoft.com/es-es/cpp/cpp/cpp-language-reference?view=msvc-170)
+El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
+* [Menú de Ejercicios](Ejercicios-C++)
+El siguiente enlace los llevara a contenido útil y básico
+* [Conceptos previos/Ayuda](ConceptosPrevios)
+El siguiente enlace los llevara a la documentación oficial por parte de Microsoft
+* [Documentación Oficial del lenguaje](https://learn.microsoft.com/es-es/cpp/cpp/cpp-language-reference?view=msvc-170)
 
 ### Contribuciones
 ¡Las contribuciones son bienvenidas! 
