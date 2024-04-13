@@ -15,9 +15,12 @@ Es importante destacar que los comentarios son ignorados por el compilador, lo q
 Ejemplo de uso:
 ```C++
   // Esto es un comentario de línea
+
   /* Esto también es un comentario de línea */
+  
   /* Esto es un 
      comentario multilínea */
+  
   /* Esto 
    * también 
    * es un 
