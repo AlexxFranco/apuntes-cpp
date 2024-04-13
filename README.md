@@ -21,7 +21,7 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 
 El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
 > ### [Menú de Ejercicios](Ejercicios-C++)
-> ### [Conceptos previos/Aydua](ConceptosPrevios)
+> ### [Conceptos previos/Ayuda](ConceptosPrevios)
 > ### [Documentación Oficial del lenguaje](https://learn.microsoft.com/es-es/cpp/cpp/cpp-language-reference?view=msvc-170)
 
 ### Contribuciones
