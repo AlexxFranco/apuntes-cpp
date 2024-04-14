@@ -2,6 +2,20 @@
 
 En esta sección, cubriremos los conceptos básicos que son esenciales para comprender los ejercicios de lógica de programación en este repositorio. Si eres nuevo en la programación o necesitas repasar algunos fundamentos, esto es ideal para ti.
 
+### 0. Creación de Archivos de C++ (.cpp)
+Para trabajar en proyectos de programación en C++, se deben crear archivos de código fuente con la extensión _**.cpp**_, Estos archivos contienen el código de nuestros programas en C++ y pueden ser editados con cualquier editor de texto o IDE compatible con el lenguaje.
+
+- Creación de un Nuevo Archivo .cpp
+Para crear un nuevo archivo de código en C++, sigue estos pasos:
+  1. Abre tu editor de texto o IDE preferido.
+  2. Crea un nuevo archivo.
+  3. Guarda el archivo con una extensión .cpp, por ejemplo, mi_programa.cpp.
+  4. Escribir Código en el Archivo .cpp
+
+Una vez que hayas escrito tu código en el archivo .cpp, puedes compilarlo y ejecutarlo para ver los resultados. Los pasos para compilar y ejecutar un programa en C++ pueden variar dependiendo del sistema operativo y el entorno de desarrollo que estés utilizando.
+
+Por lo general, puedes compilar un archivo .cpp utilizando un compilador de C++ como g++, y luego ejecutar el programa resultante. También en entornos de desarrollo integrado (IDEs) como Dev-C++ ya vienen con botones que realizan estas funcionalidades por defecto.
+
 ### 1. Comentarios de código.
 Para mejorar la legibilidad y comprensión del código, es fundamental integrar comentarios adecuados en nuestro programa. Estos comentarios no solo nos benefician a nosotros, sino que también facilitan la comprensión para otros colaboradores.
 
