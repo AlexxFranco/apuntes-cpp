@@ -1,35 +1,27 @@
-#include <iostream> // Biblioteca estandar
-
-// Espacio de nombres para utilizar cout y cin
-using namespace std;
+#include <stdio.h> // Biblioteca estandar
 
 int main() {
   // Variables para el numero y la suma de divisores
   int numero = 0, suma = 0;
-  // Manejo de entradas válidas
-  while(numero <= 0) {
-    cout << "Introduce un numero valido: ";
-    // Lectura del número del usuario
-    cin >> numero;
-    // Limpieza del búfer
-    cin.ignore();
-  }
-  // Iteramos desde 1 hasta la mitad del número para hallar los divisores
-  for (int divisor = 1; divisor <= numero / 2; divisor++) {
+  printf("Introduce un numero: ");
+  scanf("%d", &numero);
+
+  // Iteramos desde 1 hasta el numero para hallar divisores
+  for (int i = 1; i <= numero; i++) {
     /* Si el residuo entre el número del usuario y el divisor actual
     es 0, entonces vamos sumando */
-    if (numero % divisor == 0) {
+    if (numero % i == 0) {
       // Suma de los divisores
-      suma += divisor;
+      suma += i;
     }
   }
   /* Comparación del valor de la suma y del número del usuario */
   if (suma == numero) {
     // Se muestra si es perfecto
-    cout << numero << " es un numero perfecto";
+    printf("%d es un numero perfecto", numero);
   } else {
     // Se muestra si no es perfecto
-    cout << numero << " no es numero perfecto";
+    printf("%d no es un numero perfecto", numero);
   }
   return 0;
 }
