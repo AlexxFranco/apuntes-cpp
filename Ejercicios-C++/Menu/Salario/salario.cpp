@@ -17,13 +17,13 @@ int main() {
   cout << "--CALCULO DE NOMINA--" << endl;
   // Manejo de entradas inválidas
   while (horas_trabajadas <= 0) {
-        cout << "Por favor, introduce un numero de horas valido: ";
-        /* Leemos las horas trabajadas totales hasta que se
-          introduzca una correcta */
-        cin >> horas_trabajadas;
-        // Limpiamos el búfer de entrada de datos
-        cin.ignore();
-    }
+    cout << "Por favor, introduce un numero de horas valido: ";
+    /* Leemos las horas trabajadas totales hasta que se
+    introduzca una correcta */
+    cin >> horas_trabajadas;
+    // Limpiamos el búfer de entrada de datos
+    cin.ignore();
+  }
   if (horas_trabajadas <= 40) {
     /* Si las hrs trabajadas son menores o iguales a 40, entonces 
       calculamos el sueldo bruto con la tarifa normal de 350.00 */
