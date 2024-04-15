@@ -6,8 +6,8 @@ int main() {
   printf("Introduce un numero: ");
   scanf("%d", &numero);
 
-  // Iteramos desde 1 hasta el numero para hallar divisores
-  for (int i = 1; i <= numero; i++) {
+  // Iteramos desde 1 hasta número-1 para hallar los divisores
+  for (int i = 1; i < numero; i++) {
     /* Si el residuo entre el número del usuario y el divisor actual
     es 0, entonces vamos sumando */
     if (numero % i == 0) {
