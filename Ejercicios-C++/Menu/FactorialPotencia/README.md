@@ -39,7 +39,7 @@ Inicializamos la variable **suma** con el valor del número (**n**) introducido 
 suma = n;
 ```
 
-Dentro del bucle for, suma contiene el valor del número introducido por el usuario, que es el número cuyo factorial estamos calculando. Luego, durante el bucle, multiplicamos suma por todos los números enteros positivos menores que él y los vamos guardando dentro de la misma variable suma (_suma = suma * i_). Esto con el iterador **i** que va a empezar desde _n - 1_, mientras sea mayor o igual 1 (_i >= 1_), y va ir decendiendo de 1 en 1 (_i--_).
+Dentro del bucle for, suma contiene el valor del número introducido por el usuario, que es el número cuyo factorial estamos calculando. Luego, durante el bucle, multiplicamos suma por todos los números enteros positivos menores que él y los vamos guardando dentro de la misma variable suma (**_suma = suma * i_**). Esto con el iterador **i** que va a empezar desde _n - 1_, mientras sea mayor o igual 1 (**_i >= 1_**), y va ir decendiendo de 1 en 1 (**_i--_**).
 
 ```C++
 for (i = n - 1; i >= 1; i--) {
@@ -56,5 +56,5 @@ printf("El factorial es: %d", suma);
 ### [Código del ejercicio](factorialPotencia.cpp)
 
 
-Contribuciones
+## Contribuciones
 Las contribuciones son bienvenidas. Si encuentras errores o formas de mejorar el código, no dudes en abrir un problema o enviar una solicitud de extracción.
