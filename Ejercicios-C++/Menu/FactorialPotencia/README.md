@@ -4,6 +4,7 @@
 El programa en C++ visto en clase calcula el factorial de un número entero introducido por el usuario y posteriormente la potencia de dicho número introduciendo un exponente.
 
 ##### Partimos del diagrama de flujo y pseudocódigo
+
 <img src="diagramaPseudocodigo.jpeg" alt="Diagrama y Pseudocódigo" width="200">
 ```C++
 INICIO
