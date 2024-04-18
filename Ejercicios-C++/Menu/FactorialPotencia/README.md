@@ -16,11 +16,13 @@ int main() {
 ´´´
 ##### Estructura dentro del main.
 Declaramos una variable **n** que sera nuestro número a calcular su factorial, una variable **i** que sera nuestro contador dentro de la estructura for y una variable **suma** que va acumular la suma de las multiplicaciones, los tres de tipo entero **_(int)_**.
+
 ´´´C++
 int n, i, suma;
 ´´´
 
 Para el número al que vamos a calcular el factorial, imprimimos por consola el mensaje `Introduce un numero: ` mediante la función printf, y posteriormente pedimos el numero con la funcion scanf con `"%d"` como parámetro y lo almacenamos en **n**
+
 ´´´C++
 printf("Introduce un numero: ");
 scanf("%d", &n); 
@@ -31,11 +33,13 @@ scanf("%d", &n);
 ´´´
 
 Inicializamos la variable **suma** con el valor del número (**n**) introducido por el usuario al inicio del programa para comenzar el cálculo del factorial con ese número como punto de partida.
+
 ´´´C++
 suma = n;
 ´´´
 
 Dentro del bucle for, suma contiene el valor del número introducido por el usuario, que es el número cuyo factorial estamos calculando. Luego, durante el bucle, multiplicamos suma por todos los números enteros positivos menores que él y los vamos guardando dentro de la misma variable suma (_suma = suma * i_). Esto con el iterador **i** que va a empezar desde _n - 1_, mientras sea mayor o igual 1 (_i >= 1_), y va ir decendiendo de 1 en 1 (_i--_).
+
 ´´´C++
 for (i = n - 1; i >= 1; i--) {
   suma = suma * i;
