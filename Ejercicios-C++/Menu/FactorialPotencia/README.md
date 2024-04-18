@@ -73,7 +73,7 @@ printf("El factorial es: %d", suma);
 ##### 2. Para la potencia: 
 Para la parte de la potencia, el análisis es similar al del factorial, solo que en lugar de realizar un bucle donde se multiplica por el número anterior en cada iteracion, se multiplica por el número mismo.
 
-Regresamos a la línea donde declaramos las variables iniciales, y añadimos dos nuevas: **potencia** que será el resultado y **exponente** que es el número a la que vamos a elevar el número introducido.
+Regresamos a la línea donde declaramos las variables iniciales, y añadimos dos nuevas: **potencia** que será el resultado y **exponente** que es el número al que vamos a elevar el número introducido.
 ```C++
 int n, i, suma, potencia, exponente;
 ```
