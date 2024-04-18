@@ -5,13 +5,9 @@ El programa en C++ visto en clase calcula el factorial de un número entero intr
 
 ##### Partimos del diagrama de flujo y pseudocódigo
 
-| ![Diagrama y Pseudocódigo](diagramaPseudocodigo.jpeg) | 
-|:--:| 
-| *Diagrama y Pseudocódigo* | 
+![Diagrama y Pseudocódigo](diagramaPseudocodigo.jpeg)
 
-| Pseudocódigo |
-|:--|
-| ```C++
+```C++
   INICIO
   DECLARAR N, i, SUMA ENTERO
   LEER N
@@ -21,7 +17,8 @@ El programa en C++ visto en clase calcula el factorial de un número entero intr
   FIN PARA
   ESCRIBIR "EL FACTORIAL ES: " N
   FIN
-  ``` |
+  ```
+
 
 
 ##### Estructurando los primeros elementos del código
