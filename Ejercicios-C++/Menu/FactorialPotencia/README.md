@@ -124,6 +124,10 @@ Introduce un exponente: 5
 El factorial es: 120
 La potencia 5 de 5 es: 3125
 ```
+<p align="center">
+  <img src="test.png" alt="Prueba" width="500"/>
+</p>
+
 
 ### [Código del ejercicio](factorialPotencia.cpp)
 
