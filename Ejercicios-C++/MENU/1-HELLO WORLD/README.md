@@ -1,4 +1,5 @@
-## Programa "Hello World" en C++
+## 1.-HELLO WORLD
+> #### Clase: ??/??/24
 Este es un programa simple en C++ que imprime "Hello World" en la consola. Es el punto de partida de todo programador para familiarizarse con la sintaxis básica del lenguaje y la configuración del entorno de desarrollo. Por tradición es el primer programa que uno debe hacer sin importar el lenguaje de programación.
 
 El repositorio fue pensado para aquellos que utilicen Visual Studio Code como entorno de desarrollo, aunque DevC++ es un poco más sencillo.

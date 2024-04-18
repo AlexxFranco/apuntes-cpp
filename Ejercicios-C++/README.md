@@ -1,7 +1,7 @@
 ## Menú de Ejercicios 
-### 1. [Hola Mundo](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/Menu/HelloWorld)
-### 2. [Año Bisiesto](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/Menu/AñoBisiesto)
-### 3. [Números pares entre dos números](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/Menu/NumerosPares)
-### 4. [Número Perfecto](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/Menu/NumeroPerfecto)
-### 5. [Salario](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/Menu/Salario)
-### 6. [Factorial y potencia](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/Menu/FactorialPotencia)
+### 1. [HOLA MUNDO](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/1-HELLO WORLD)
+### 2. [AÑO BISIESTO](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/1-AÑO BISIESTO)
+### 3. [NÚMEROS PARES](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/1-HELLO WORLD)
+### 4. [NÚMERO PERFECTO](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/1-HELLO WORLD)
+### 5. [SALARIO](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/1-HELLO WORLD)
+### 6. [FACTORIAL Y POTENCIA](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/1-HELLO WORLD)gia
