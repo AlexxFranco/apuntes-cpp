@@ -133,4 +133,4 @@ La potencia 5 de 5 es: 3125
 
 
 ## Contribuciones
-Las contribuciones son bienvenidas. Si encuentras errores o formas de mejorar el código, no dudes en abrir un problema o enviar una solicitud de extracción.
+Las contribuciones son bienvenidas. Si encuentras errores o formas de mejorar el código, no dudes en querer contribuir.
