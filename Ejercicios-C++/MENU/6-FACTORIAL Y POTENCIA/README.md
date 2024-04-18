@@ -23,7 +23,7 @@ El programa en C++ visto en clase calcula el factorial de un número entero intr
   ```
 
 #### Estructurando los primeros elementos del código
-Para el código propuesto por el profesor, se utiliza la biblioteca stdio.h de C++ y definimos una nueva estructura o función main.
+Para el código propuesto por el profesor, se utiliza la biblioteca stdio.h de C++ y definimos una nueva función main.
 
 ```C++
 #include <stdio.h> // Biblioteca estándar entrada/salida de C++
@@ -129,7 +129,7 @@ La potencia 5 de 5 es: 3125
 </p>
 
 
-### [Código del ejercicio](factorialPotencia.cpp)
+### [Código del ejercicio](src/factorialPotencia.cpp)
 
 
 ## Contribuciones
