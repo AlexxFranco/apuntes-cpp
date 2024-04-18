@@ -3,6 +3,19 @@
 
 El programa en C++ visto en clase calcula el factorial de un número entero introducido por el usuario y posteriormente la potencia de dicho número introduciendo un exponente.
 
+##### Partimos del diagrama de flujo y pseudocódigo
+<img src="diagramaPseudocodigo.jpeg" alt="Diagrama y Pseudocódigo" width="200">
+```C++
+INICIO
+DECLARAR N, i, SUMA ENTERO
+LEER N
+SUMA = N
+PARA i = N - 1; i >= 1; i--; HACER:
+  SUMA = SUMA * i
+FIN PARA
+ESCRIBIR "EL FACTORIAL ES: " N
+FIN
+```
 
 ##### Estructurando los primeros elementos del código
 Para el código propuesto por el profesor, se utiliza la biblioteca stdio.h de C++ y definimos una nueva estructura o función main.
