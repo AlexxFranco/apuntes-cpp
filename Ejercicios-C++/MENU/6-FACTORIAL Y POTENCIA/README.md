@@ -6,7 +6,7 @@ El programa en C++ visto en clase calcula el factorial de un número entero intr
 #### Partimos del diagrama de flujo y pseudocódigo
 
 <p align="center">
-  <img src="diagramaPseudocodigo.jpeg" alt="Diagrama y Pseudocódigo" width="700"/>
+  <img src="imgs/diagramaPseudocodigo.jpeg" alt="Diagrama y Pseudocódigo" width="700"/>
 </p>
 
 ```C++
@@ -125,7 +125,7 @@ El factorial es: 120
 La potencia 5 de 5 es: 3125
 ```
 <p align="center">
-  <img src="test.png" alt="Prueba" width="800"/>
+  <img src="imgs/test.png" alt="Prueba" width="800"/>
 </p>
 
 
