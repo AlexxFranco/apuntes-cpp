@@ -5,7 +5,9 @@ El programa en C++ visto en clase calcula el factorial de un número entero intr
 
 #### Partimos del diagrama de flujo y pseudocódigo
 
-![Diagrama y Pseudocódigo](diagramaPseudocodigo.jpeg)
+<p align="center">
+  <img src="diagramaPseudocodigo.jpeg" alt="Diagrama y Pseudocódigo" width="700"/>
+</p>
 
 ```C++
   INICIO
