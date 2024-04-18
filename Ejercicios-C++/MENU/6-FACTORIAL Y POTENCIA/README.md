@@ -113,7 +113,7 @@ for (int j = 1; j < exponente; j++) {
 Finalizamos añadiendo un `printf` final, mostrando el resultado de la potencia.
 
 ```C++
-  printf("\nLa potencia %d de %d es: %d", exponente, n, potencia);
+printf("\nLa potencia %d de %d es: %d", exponente, n, potencia);
 ```
 
 Ejemplo de ejecución
