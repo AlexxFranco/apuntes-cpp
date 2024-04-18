@@ -10,6 +10,7 @@ El programa en C++ visto en clase calcula el factorial de un número entero intr
     <img src="diagramaPseudocodigo.jpeg" alt="Diagrama y Pseudocódigo" width="500">
   </div>
   <div style="flex: 50%;">
+    
     ```
     INICIO
     DECLARAR N, i, SUMA ENTERO
@@ -21,6 +22,7 @@ El programa en C++ visto en clase calcula el factorial de un número entero intr
     ESCRIBIR "EL FACTORIAL ES: " N
     FIN
     ```
+    
   </div>
 </div>
 
