@@ -3,7 +3,7 @@
 
 Una función es un bloque de código que realiza una tarea específica y devuelve un valor como resultado.
 Las funciones pueden aceptar parámetros, que son valores que se pasan a la función para que los utilice en su ejecución.
-La implementación del código del ejercicio 6, en funciones es la siguiente:
+La implementación del [código del ejercicio anterior](/Ejercicios-C++/MENU/6-FACTORIAL%20Y%20POTENCIA/src/factorialPotencia.cpp), en funciones es la siguiente:
 
 #### Estructurando los primeros elementos del código
 Utilizamos la biblioteca stdio.h de C++
@@ -58,3 +58,10 @@ int main() {
   return 0;
 }
 ```
+
+
+### [Código del ejercicio](funciones.cpp)
+
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si encuentras errores o formas de mejorar el código, no dudes en querer contribuir.
