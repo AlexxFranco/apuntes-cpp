@@ -53,7 +53,7 @@ int main() {
   scanf("%d", &exponente);
   resultado_factorial = factorial(n);
   printf("El factorial es: %d", resultado_factorial);
-  resultado_potencia = factorial(n);
+  resultado_potencia = potencia(n, exponente);
   printf("\nLa potencia %d de %d es: %d", exponente, n, resultado_potencia);
   return 0;
 }
