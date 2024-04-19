@@ -5,4 +5,4 @@
 ### 4. [NÚMERO PERFECTO](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/4-NÚMEROS%20PERFECTO)
 ### 5. [SALARIO](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/5-SALARIO)
 ### 6. [FACTORIAL Y POTENCIA](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/6-FACTORIAL%20Y%20POTENCIA)
-### 6. [FUNCIONES](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/7-FUNCIONES)
+### 7. [FUNCIONES](https://github.com/CesarCarmona30/EjerciciosCpp/blob/main/Ejercicios-C++/MENU/7-FUNCIONES)
