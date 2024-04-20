@@ -35,7 +35,7 @@ INICIO
 FIN  
 ```
 
-### [Código del ejercicio](src/tiempoVida.cpp)
+### [Código del ejercicio](src/tiempodevidaporsubirescalones.cpp)
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si encuentras errores o formas de mejorar el código, no dudes en querer contribuir.

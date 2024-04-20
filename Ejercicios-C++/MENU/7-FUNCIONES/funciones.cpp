@@ -1,33 +1,38 @@
 #include <stdio.h>
 
-int factorial(int numero) {
-  int suma, i;
-  suma = numero;
-  for(i = numero - 1; i >= 1; i--) {
-    suma = suma * i;
-  }
-  return suma;
+int factorial(int n) 
+{
+    int suma, i;
+    suma = n;
+    for (i = n - 1; i >= 1; i--) 
+    {
+        suma = suma * i;
+    }
+    return suma;
 }
 
-int potencia(int numero, int exponente) {
-  int resultado, j;
-  resultado = numero;
-  for(j = 1; j < exponente; j++) {
-    resultado = resultado * numero;
-  }
-  return resultado;
+int potencia(int n, int expo) 
+{
+    int res, j;
+    res = n;
+    for (j = 1; j < expo; j++) 
+    {
+        res = res * n;
+    }
+    return res;
 }
 
 
-int main() {
-  int n, exponente, resultado_factorial, resultado_potencia;
-  printf("Introduce un numero: ");
-  scanf("%d", &n);
-  printf("Introduce un exponente: ");
-  scanf("%d", &exponente);
-  resultado_factorial = factorial(n);
-  printf("El factorial es: %d", resultado_factorial);
-  resultado_potencia = potencia(n, exponente);
-  printf("\nLa potencia %d de %d es: %d", exponente, n, resultado_potencia);
-  return 0;
+int main() 
+{
+    int n, expo, res_fact, res_pot;
+    printf("Introduce un numero: ");
+    scanf("%d", &n);
+    printf("Introduce un exponente: ");
+    scanf("%d", &expo);
+    res_fact = factorial(n);
+    printf("El factorial es: %d", res_fact);
+    res_pot = potencia(n, expo);
+    printf("\nLa potencia %d de %d es: %d", expo, n, res_pot);
+    return 0;
 }
