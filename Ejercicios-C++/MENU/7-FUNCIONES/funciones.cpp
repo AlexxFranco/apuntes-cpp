@@ -25,14 +25,14 @@ int potencia(int n, int expo)
 
 int main() 
 {
-    int n, expo, res_fact, res_pot;
+    int n, expo, resf, resp;
     printf("Introduce un numero: ");
     scanf("%d", &n);
     printf("Introduce un exponente: ");
     scanf("%d", &expo);
-    res_fact = factorial(n);
-    printf("El factorial es: %d", res_fact);
-    res_pot = potencia(n, expo);
-    printf("\nLa potencia %d de %d es: %d", expo, n, res_pot);
+    resf = factorial(n);
+    printf("El factorial es: %d", resf);
+    resp = potencia(n, expo);
+    printf("\nLa potencia %d de %d es: %d", expo, n, resp);
     return 0;
 }
