@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char const *argv[]) {
+int main() {
   int ps, pb, ts, suma, esc, min;
   do {
     printf("Cuantos pisos subio?: ");

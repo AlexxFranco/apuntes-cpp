@@ -20,7 +20,7 @@ Corrigiendo un poco el pseucódigo del pizarron para que coincida con el diagram
 
 ```C++
 INICIO
-  DECLARAR PS, PB, TS, SUMA, ESC, MIN ENTEROS;
+  DECLARAR PS, PB, TS, SUMA, ESC, MIN, ENTEROS;
   HACER:
     ESCRIBIR "CUANTOS PISOS SUBIÓ?: ";
     LEER PS;
