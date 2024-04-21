@@ -10,8 +10,17 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 
 ### ¿Cómo usar este repositorio?
 - Explora los diferentes ejercicios disponibles en el repositorio.
-- Descarga los archivos que necesites para practicar.
 - Realiza los ejercicios por tu cuenta y compara tus soluciones con las proporcionadas aquí.
+- Descarga los archivos que necesites, modificalos, trata de **comprenderlos**, o lo que se te ocurra pero continúa por tu cuenta y se constante.
+> [!IMPORTANT]
+> El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
+> * [Menú de ejercicios](Ejercicios-C++)
+
+> [!ADVISE]
+> Si son nuevos programando y no tienen idea de los ejercicios, hay una sección dedicada a resumir conceptos básicos.
+> El siguiente enlace los llevara a ese contenido útil y fundamental.
+> * [Conceptos previos/ayuda](ConceptosPrevios)
+
 > [!IMPORTANT]
 > Pueden descargar la aplicación de GitHub para móvil, en este caso cuando abren ciertas carpetas del repositorio, los documentos *_README.md_* no se previsualizan por defecto como si los estuvieran viendo
 > en el navegador, por lo que de preferencia cuando se metan a una carpeta donde encuentren tanto el archivo del código como el README.md, abran este último pues contiene información un poco más detallada.
@@ -19,14 +28,6 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 > [!NOTE]
 > El _README.md_ es un archivo de texto que se carga y se visualiza por defecto y es de utilidad para comprender y detallar mejor el proyecto en el que se trabaje. De hecho esto que estan visualizando es un archivo _README_
 
-> [!IMPORTANT]
-> El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
-> * [Menú de ejercicios](Ejercicios-C++)
-
-> [!TIP]
-> Si son nuevos programando y no tienen idea de los ejercicios, hay una sección dedicada a resumir conceptos básicos.
-> El siguiente enlace los llevara a ese contenido útil y fundamental.
-> * [Conceptos previos/ayuda](ConceptosPrevios)
 
 > [!TIP]
 > El siguiente enlace los llevara a la documentación oficial por parte de Microsoft
