@@ -16,10 +16,10 @@ En este repositorio encontrarán la recopilación de ejercicios realizados en cl
 > El siguiente enlace los llevara al menú donde podran visualizar los diferentes ejercicios listados
 > * [Menú de ejercicios](Ejercicios-C++)
 
-> [!ADVISE]
+> [!IMPORTANT]
 > Si son nuevos programando y no tienen idea de los ejercicios, hay una sección dedicada a resumir conceptos básicos.
 > El siguiente enlace los llevara a ese contenido útil y fundamental.
-> * [Conceptos previos/ayuda](ConceptosPrevios)
+> * **[Conceptos fundamentales](ConceptosPrevios)**
 
 > [!IMPORTANT]
 > Pueden descargar la aplicación de GitHub para móvil, en este caso cuando abren ciertas carpetas del repositorio, los documentos *_README.md_* no se previsualizan por defecto como si los estuvieran viendo
