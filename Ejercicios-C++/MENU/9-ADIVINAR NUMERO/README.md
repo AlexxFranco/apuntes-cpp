@@ -1,4 +1,4 @@
-## 8.-ADIVINAR EL NÚMERO
+## 9.-ADIVINAR EL NÚMERO
 > #### Clase: 24/04/24
 
 Tenemos un juego que consiste en que el usuario o el jugador adivine el número aleatorio generado por el programa en un máximo de 9 intentos.
