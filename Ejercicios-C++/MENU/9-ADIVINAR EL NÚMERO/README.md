@@ -71,7 +71,7 @@ int main() {
 }
 ```
 
-Realizamos 3 estructuras if-else para comparar y determinar si el número introducido por el usuario es mayor, menor o igual al número generado aleatoriamente y dependiendo de la condición que se cumpla, el programa nos muestra el mensaje de si el núumero que estamos intentando adivinar es mayor o menor, en ambos casos continua el ciclo, pero si acertamos con el número, entonces finalizamos mostrando el mensaje de "Has adivinado el numero" y rompiendo con el ciclo.
+Realizamos 3 estructuras if-else para comparar y determinar si el número introducido por el usuario es mayor, menor o igual al número generado aleatoriamente y dependiendo de la condición que se cumpla, el programa nos muestra el mensaje de si el número que estamos intentando adivinar es mayor o menor, en ambos casos continua el ciclo, pero si acertamos con el número, entonces finalizamos mostrando el mensaje de "Has adivinado el numero" y rompiendo el ciclo con la clausula o palabra reservada break.
 
 ```C++
 int main() {
