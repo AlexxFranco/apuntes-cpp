@@ -100,7 +100,6 @@ int main() {
 }
 ```
 
-
 Añadimos una clausula if al final que nos muestra que los intentos acabaron si es que llegamos a la ultima iteración sin adivinar el número.
 
 ```C++
