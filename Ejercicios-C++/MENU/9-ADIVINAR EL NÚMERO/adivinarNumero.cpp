@@ -1,11 +1,12 @@
-#include <stdio.h> // Standar Input/Output Library
-#include <cstdlib> // C STanDar LIBrary para el uso de rand()
-
-using namespace std;
+#include <stdio.h> // Standard Input/Output Library
+#include <cstdlib> // C Standard Library para el uso de srand() y rand()
+#include <ctime> // C  Time Library para el uso de time()
 
 int main() {
     // Declarar variables
     int numero_aleatorio, numero_usuario;
+    // Inicializar la semilla de rand() con base en la hora actual
+    srand(time(0));
     // Generar un número aleatorio entre 1 y 100
     numero_aleatorio = rand() % 100 + 1;
     for (int i = 1; i <= 9; i++) 
