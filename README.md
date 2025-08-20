@@ -6,8 +6,6 @@ Repositorio con los apuntes y ejemplos de la carrera, organizado por materias y 
 
 El objetivo es centralizar material de estudio, ejemplos prácticos y pequeñas notas para repasos y prácticas.
 
----
-
 ## Estructura del repositorio
 Cada carpeta representa una materia. Dentro de cada carpeta suele haber:
 
